@@ -50,6 +50,3 @@ Après la création de la Release
 ![alt text](/doc/image-31.png)
 
 ![alt text](/doc/image-32.png)
-
-
-test
